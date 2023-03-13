@@ -91,7 +91,7 @@ header{
     animation: zoomIn 1s ease forwards;
     animation-delay: 2s;
     box-shadow: 0 0 20px cyan;
-    background-color: cyan;
+    background: transparent;
     border-radius: 10px;
     -webkit-clip-path: polygon(50% 0%, 0% 50%, 50% 100%, 100% 50%);
      /* clip-rule: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);  */
